@@ -1,3 +1,5 @@
+#Ce programme a pour but de détecter le port où est connectée la carte arduino et de communiquer avec elle
+
 import threading
 import time
 from time import sleep
