@@ -5,6 +5,8 @@
  *      Author: patrice
  */
 
+//Ce programme permet, à partir des 2 autres fichiers, de faire bouger le robot en agissant directement sur les moteurs
+
 #include "MotorsIboum17.h"
 #include "Arduino.h"
 
