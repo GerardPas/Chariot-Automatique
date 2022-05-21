@@ -6,7 +6,7 @@
  */
 
 
-// A DOCUMENTER !!!!!!!!!!!!!!!!!
+// Définition des différentes fonctions
 
 #ifndef MOTORSIBOUM17_H_
 #define MOTORSIBOUM17_H_
