@@ -38,19 +38,11 @@ while True:
             if  x < 235:
                 print("tourne à gauche")
                 mvt = "L"
-                
-            elif 235 < x < 285:
-                print("tourne à leger gauche")
-                mvt = "G"
-                
-            
-            elif 355<x<405:
-                print("tourne à leger droite")
-                mvt = "D"
-                
+              
             elif x > 405:
                 print("tourne à droite")
                 mvt= "R"
+                 
             else:
                 print("tout droit")
                 mvt = "F"
