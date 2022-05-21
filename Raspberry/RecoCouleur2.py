@@ -1,4 +1,4 @@
-#Programme qui se base sur OpenCV et a pour but de détecter la position de l'objet
+#Programme qui se base sur OpenCV et qui a pour but de détecter la position de l'objet
 
 import cv2
 import numpy as np
