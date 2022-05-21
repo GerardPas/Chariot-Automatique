@@ -1,11 +1,4 @@
-/*
- * Communication avec le robot par un module bluetooth BT-06
- * Le robot reçoit 3 octets
- * octet1 : mode
- * octet2 : vitesse
- * octet3 : écart
- * Connexion Rx et Tx sur les broches 0 et 1
- */
+// Reçoit les ordres du Raspberry et fait se déplacer le robot
 
 #include "Arduino.h"
 #include "MotorsIboum17.h"
