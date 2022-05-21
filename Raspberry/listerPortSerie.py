@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#Liste les ports et trouve celui où est branchée la carte arduino
+
 import serial.tools.list_ports as lp
 
 def liste_ports_serie_disponibles():
