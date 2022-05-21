@@ -1,4 +1,5 @@
-#arduino dans le mauvais sens
+#Programme qui se base sur OpenCV et a pour but de détecter la position de l'objet
+
 import cv2
 import numpy as np
 import commandeSerieRobot45
