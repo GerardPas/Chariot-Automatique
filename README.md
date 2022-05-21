@@ -1,6 +1,8 @@
 # Chariot-Automatique
 Programme Olympiades SI d'un chariot capable de suivre le personnel soignant
 
-Utilisation d'un télémètre pour obtenir la distance et d'une caméra pour détecter l'objet
+Utilisation d'une caméra pour détecter l'objet et savoir si l'on est trop proche ou trop loin de ce dernier
 
-OpenCV pour détecter la couleur de l'objet et suivre uniquement la personne qui porte le bracelet
+OpenCV pour détecter la couleur de l'objet et suivre uniquement la personne qui porte le bracelet / l'objet souhaité
+
+2 parties : Une avec un Rapsberry Pi et l'autre avec une carte arduino qui commande les moteurs
