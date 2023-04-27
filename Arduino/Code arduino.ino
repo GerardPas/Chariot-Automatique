@@ -49,7 +49,7 @@ void loop() {
       dir = 'S';
     }
 
-  if (distance < 10) {
+  if (distance < 50) {
     //Serial.print("Trop proche");
     dir = 'S';
   }
